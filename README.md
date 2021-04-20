@@ -5,7 +5,7 @@ This simple easy article is about develop the Create, Read, Update and Delete in
 **Installation**
 -
 
-Step 1. clone package [git clone https://github.com/pringal/laravel-and-vue-js-CRUD-tutorial]
+Step 1. clone package [git clone https://github.com/pringal/laravel-and-vue-js-CRUD-tutorial.git]
 
 Step 2. install composer dependency [composer install]
 
@@ -15,7 +15,7 @@ Step 3. Follow this article <a href="https://codescompanion.com/laravel-and-vue-
 **Contribute**
 -
 
-Contributions are welcome and will be fully credited. We accept contributions via Pull Requests on [GitHub](https://github.com/pringal/laravel-and-vue-js-CRUD-tutorial).
+Contributions are welcome and will be fully credited. We accept contributions via Pull Requests on [GitHub](https://github.com/pringal/laravel-and-vue-js-CRUD-tutorial.git).
 
 **Loveware**
 -
